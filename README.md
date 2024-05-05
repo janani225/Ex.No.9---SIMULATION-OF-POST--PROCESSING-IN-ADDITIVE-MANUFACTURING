@@ -46,9 +46,10 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/VARSHINI22009118/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119401150/bb1c424e-e8b0-47b0-89f3-6663f9c0349b)
 
-### Name:
-### Register Number:
+### Name:JANANI V.S
+### Register Number: 212222230050
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
